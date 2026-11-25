@@ -1,0 +1,6 @@
+{
+  "name": "the-excuse-my-agent-gave-me",
+  "private": true,
+  "type": "module",
+  "description": "Writes one line, the excuse an AI agent hands its human for a missed deadline, to /output/entry.txt."
+}
